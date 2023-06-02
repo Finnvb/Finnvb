@@ -1,4 +1,4 @@
-Hi there 👋
+<h1>Hi there 👋 </h1>
 
 [![Finnvb GitHub stats](https://github-readme-stats.vercel.app/api?username=finnvb)](https://github.com/anuraghazra/github-readme-stats)
 
